@@ -2,9 +2,9 @@
 
 ### I'm Aiminsun,from China
 - 🔭 security researcher
-- 🤔 good at IOT, reverse, binary, Web, programming Security research and vulnerability mining
+- 🤔 good at IOT, reverse, binary, Web, programming, code audit, Security research and vulnerability mining
 - 📷 My hobbies Playing guitar Singing Writing code Taking pictures
-- 💻 grasp：Python、PHP、C、Go、Javascript、Lua、Html、Css And "tuì táng gǔ" 🤣
+- 💻 grasp：Python, PHP, C, Golang, Javascript, Lua, Html, Css And "tuì táng gǔ" 🤣
 - 📧 Contact me:  echo -n 'YWRtaW5AYXFqbi5jb20=' | base64 -d
 
 ![Aimisnun Github Stats](https://github-readme-stats.vercel.app/api?username=Aiminsun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
