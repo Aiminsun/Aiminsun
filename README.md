@@ -7,6 +7,7 @@
 - 💻 grasp：Python PHP C Go Javascript Lua And "tuì táng gǔ" 🤣
 - 📧 Contact me:  echo -n 'bGVlX3dlY2hhdHRpbmc=' | base64 -d
 
+![Aimisnun Github Stats](https://github-readme-stats.vercel.app/api?username=Aiminsun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <!---
 Aiminsun/Aiminsun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
